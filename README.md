@@ -20,7 +20,8 @@ The observation space consists of 8 variables corresponding to the position and 
 ### Getting Started
 
 #### 1. You need to setup the environment before you can play with the code.
-I coded everything on MacOS, but these instructions should work for Windows and Linux as well.
+
+This code was written on Mac, but the instruction following wil work with any of the Operating Systems.
 
 1. Create a virtual enviroment with python 3.6 and activate. All equirements will be installed in this enviroment.
 2. Download the repo of Unity ML-Agents Toolkit at [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) and follow the [install instructions](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Readme.md)
